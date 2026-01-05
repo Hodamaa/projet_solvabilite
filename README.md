@@ -55,4 +55,4 @@ Le dépôt est organisé comme suit :
 ## Auteur
 **Théo Paradis**
 Master Analyse des Risques Bancaires | Université de Montpellier
-Recherche un stage en Solvabilité / Pilotage des Risques (Janvier 2026).
+Recherche un stage en Solvabilité / Pilotage des Risques (Mai 2026).
